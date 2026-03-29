@@ -14,3 +14,19 @@ Script PowerShell per rinominare automaticamente episodi di serie TV / anime in 
 - Compatibile con qualsiasi estensione
 
 ---
+
+Vai nella cartella:
+cd <repo-folder>
+
+⚙️ Utilizzo
+
+Esegui lo script da PowerShell:
+
+.\rename-series.ps1 `
+-Extension *.mkv `
+-SeriesName "Hunter X Hunter" `
+-Season 1 `
+-UseEpisodeFromFile `
+-Preview
+
+👉 Rimuovi -Preview per applicare le modifiche.
