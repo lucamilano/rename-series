@@ -18,7 +18,7 @@ Script PowerShell per rinominare automaticamente episodi di serie TV / anime in 
 Vai nella cartella:
 cd <repo-folder>
 
-##⚙️ Utilizzo
+⚙️ Utilizzo
 
 Esegui lo script da PowerShell:
 
